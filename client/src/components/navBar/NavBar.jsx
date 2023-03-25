@@ -1,10 +1,10 @@
 
 import './navbar.scss';
 
-function NarBar() {
+function NavBar() {
   return (
     <></>
   )
 }
 
-export default NarBar;
+export default NavBar;
